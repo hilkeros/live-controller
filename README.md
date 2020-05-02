@@ -1,3 +1,3 @@
 # How to Run
 
-`npm i && npm run start`
+`yarn install && yarn start`
